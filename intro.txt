@@ -1,3 +1,7 @@
 Hello World!
 Nigel: IT 101
 Brandon: Computer Enginering 
+Hussein: IT 101
+Elijah: IT 101
+
+
